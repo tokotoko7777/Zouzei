@@ -55,7 +55,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\main_Script.cs" />
      <Compile Include="Assets\Scripts\negitest.cs" />
+     <Compile Include="Assets\Scripts\Parameter_Script.cs" />
      <Compile Include="Assets\Scripts\yutotest.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/chtqt/OneDrive/ドキュメント/GitHub/Zouzei/Unity_Zouzei/Zouzei/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
